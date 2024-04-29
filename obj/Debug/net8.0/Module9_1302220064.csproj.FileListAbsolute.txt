@@ -30,3 +30,7 @@ D:\Module9_1302220064\obj\Debug\net8.0\refint\Module9_1302220064.dll
 D:\Module9_1302220064\obj\Debug\net8.0\Module9_1302220064.pdb
 D:\Module9_1302220064\obj\Debug\net8.0\Module9_1302220064.genruntimeconfig.cache
 D:\Module9_1302220064\obj\Debug\net8.0\ref\Module9_1302220064.dll
+D:\Module9_1302220064\obj\Debug\net8.0\Module9_1302220064.sourcelink.json
+D:\Module9_1302220064\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Module9_1302220064\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Module9_1302220064\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
